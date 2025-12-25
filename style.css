@@ -53,7 +53,7 @@ h1 {
     background-color: #046338; 
     border-radius: 15px;
     width: 140vh;
-    height: 120vh;
+    height: 160vh;
     
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(10px); 
@@ -167,5 +167,6 @@ h2{
     columns: 2;
     justify-content: space-between;
 }
+
 
 
