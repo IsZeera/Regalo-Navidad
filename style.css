@@ -62,7 +62,7 @@ h1 {
 @media (max-width: 1050px){
   .main-container{
     width: 120vh;
-    height: 160vh;
+    height: 180vh;
     }
 }
 
@@ -70,7 +70,7 @@ h1 {
 @media (max-width: 850px){
   .main-container{
     width: 90vh;
-    height: 120vh;
+    height: 180vh;
     }
 }
 
@@ -78,7 +78,7 @@ h1 {
 @media (max-width: 550px){
   .main-container{
     width: 60vh;
-    height: 120vh;
+    height: 180vh;
     }
 }
 
@@ -167,3 +167,4 @@ h2{
     columns: 2;
     justify-content: space-between;
 }
+
